@@ -1,0 +1,14 @@
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.csproj.AssemblyReference.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.AssemblyInfoInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.AssemblyInfo.cs
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.csproj.CoreCompileInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.exe
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.deps.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.runtimeconfig.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.runtimeconfig.dev.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\bin\Debug\netcoreapp3.1\Harjoitus1auto.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Harjoitus1auto\Harjoitus1auto\obj\Debug\netcoreapp3.1\Harjoitus1auto.genruntimeconfig.cache

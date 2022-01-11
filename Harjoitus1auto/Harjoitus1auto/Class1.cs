@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace harjoitus
+namespace Harjoitus1auto
 {
     class Ajoneuvo
-    { public string nimi { get; set; }
+    {
+        public string nimi { get; set; }
         public int nopeus { get; set; }
         public int renkaat { get; set; }
 
@@ -16,12 +17,5 @@ namespace harjoitus
             Console.WriteLine("--- nopeus: " + nopeus);
             Console.WriteLine("--- renkaat: " + renkaat);
         }
-        
-        
-       
-
-        
-
-
     }
 }

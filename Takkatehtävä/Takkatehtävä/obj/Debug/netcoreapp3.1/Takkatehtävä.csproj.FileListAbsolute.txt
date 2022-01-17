@@ -1,0 +1,14 @@
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.exe
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.deps.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.runtimeconfig.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.runtimeconfig.dev.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\bin\Debug\netcoreapp3.1\Takkatehtävä.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.csproj.AssemblyReference.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.AssemblyInfoInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.AssemblyInfo.cs
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.csproj.CoreCompileInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Takkatehtävä\Takkatehtävä\obj\Debug\netcoreapp3.1\Takkatehtävä.genruntimeconfig.cache

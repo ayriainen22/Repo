@@ -1,0 +1,14 @@
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.exe
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.deps.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.runtimeconfig.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.runtimeconfig.dev.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\bin\Debug\netcoreapp3.1\tehtävä5Laskin.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.csproj.AssemblyReference.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.AssemblyInfoInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.AssemblyInfo.cs
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.csproj.CoreCompileInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\tehtävä5Laskin\tehtävä5Laskin\obj\Debug\netcoreapp3.1\tehtävä5Laskin.genruntimeconfig.cache

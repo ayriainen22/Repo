@@ -1,0 +1,5 @@
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Tehävä6Eläin\Tehävä6Eläin\obj\Debug\netcoreapp3.1\Tehävä6Eläin.csproj.AssemblyReference.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Tehävä6Eläin\Tehävä6Eläin\obj\Debug\netcoreapp3.1\Tehävä6Eläin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Tehävä6Eläin\Tehävä6Eläin\obj\Debug\netcoreapp3.1\Tehävä6Eläin.AssemblyInfoInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Tehävä6Eläin\Tehävä6Eläin\obj\Debug\netcoreapp3.1\Tehävä6Eläin.AssemblyInfo.cs
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Tehävä6Eläin\Tehävä6Eläin\obj\Debug\netcoreapp3.1\Tehävä6Eläin.csproj.CoreCompileInputs.cache

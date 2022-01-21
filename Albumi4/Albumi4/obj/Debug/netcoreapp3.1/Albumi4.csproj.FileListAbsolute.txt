@@ -1,0 +1,14 @@
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.exe
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.deps.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.runtimeconfig.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.runtimeconfig.dev.json
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\bin\Debug\netcoreapp3.1\Albumi4.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.csproj.AssemblyReference.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.AssemblyInfoInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.AssemblyInfo.cs
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.csproj.CoreCompileInputs.cache
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.dll
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.pdb
+C:\Users\Oskari Repo\source\repos\Oliot22\Repo\Albumi4\Albumi4\obj\Debug\netcoreapp3.1\Albumi4.genruntimeconfig.cache

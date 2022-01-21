@@ -33,6 +33,7 @@ namespace Takkatehtävä
             if (kiukaantila == "k")
             {
                 Console.WriteLine("Kiuas on päällä.");
+                Tulostadata();
                 
             }
            else 
@@ -43,7 +44,7 @@ namespace Takkatehtävä
         public void Tulostadata()
         {
             
-           if (kiukaantila == "k")
+            if (kiukaantila == "k")
             {
                 Console.WriteLine("Ilman kosteus on: " + Kosteus);
                 Console.WriteLine("Saunan lämpötila on: " + Lämpötila);
